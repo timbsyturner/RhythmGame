@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RhythmController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NoteScript.cs" Line="22" Column="29" />
+      <File FileName="Assets/Scripts/KeyRecognizer.cs" Line="17" Column="29" />
+      <File FileName="Assets/Scripts/RhythmController.cs" Line="55" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
